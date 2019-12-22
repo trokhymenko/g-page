@@ -1,2 +1,0 @@
-# g-page
-github pages
